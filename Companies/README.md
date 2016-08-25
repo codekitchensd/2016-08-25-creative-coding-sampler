@@ -1,5 +1,7 @@
 # Companies and Studios that use Creative Coding
 
+See Tim Stutt's 2012 arcticle, [Who Works With Creative Coders](http://timstutts.tumblr.com/post/33707922665/who-works-with-creative-coders)
+
 ## General
 - FIELD.io : https://www.field.io/
 - Random International : http://random-international.com/
