@@ -1,2 +1,3 @@
-# 2016-08-25-creative-coding-sampler
-An overview of available tools and environments for creative coding!
+# Creative Coding Sampler
+
+This repo is an on-going effort to keep track of the many tools, people, and environments involved in creative coding.
