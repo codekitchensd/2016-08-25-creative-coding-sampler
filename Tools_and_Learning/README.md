@@ -68,27 +68,26 @@
 
 
 ## Hardware
-Examples of cool projects:
 
-Think of it as three things: INPUT, BRAINS, OUTPUT
+_Think of it as three things: INPUT, BRAINS, OUTPUT_
 
 ### BRAINS: 
 
 #### Microcontrollers
-- Arduino
-- PIC
+- Arduino/Genuino - [http://arduino.cc/]
+- PIC - 
 
 #### Small Linux Computers
-- RasperryPi
-- BeagleBone
-- C.H.I.P., RedPitaya, Tessel, so many others
+- RasperryPi - [http://www.raspberrypi.org]
+- BeagleBone - [http://www.beaglebone.org]
+- [C.H.I.P.](http://getchip.com), [RedPitaya](http://redpitaya.com), [Tessel](http://tessel.io), so many others
 
 #### Shields
 - Arduino Shields, Pi HATs, BeagleBone Capes, C.H.I.P. DIPs...
-- Bela.io (BeagleBone)
+- [Bela.io](http://bela.io) (BeagleBone)
 
 #### Misc ICs
-- LED controllers (fadecandy.com)
+- LED controllers ([FadeCandy](http://fadecandy.com))
 - FPGAs?
 
 ### INPUT 
