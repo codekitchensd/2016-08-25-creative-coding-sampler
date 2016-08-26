@@ -54,8 +54,8 @@ See Tim Stutt's 2012 arcticle, [Who Works With Creative Coders](http://timstutts
 - HUGE : http://www.hugeinc.com/
 - The Barbarian Group (group behind Cinder) : http://barbariangroup.com/
 - Obscura Digital : http://obscuradigital.com/
--
-## Artists (only a few):
+
+## Artists (just a sampling):
 - http://www.zimoun.net/
 - http://www.quayola.com/
 - http://www.memo.tv/category/work/by-type/
