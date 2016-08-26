@@ -58,6 +58,7 @@
 - Abelton Live?
 - (Pure Data, MaxMSP, as well as most programming environments)
 - Tone.js (and P5.js) / WebAudioAPI
+- Sonic Pi [http://sonic-pi.net/]
 
 ## Content Creation
 - Blender
