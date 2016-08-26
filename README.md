@@ -11,6 +11,6 @@ This repo is an on-going effort to keep track of the many tools, people, and env
 [Daniel Shiffman introduces some examples in the beginning of this Hour Of Code video](http://hello.processing.org)
 
 ## Pages
-[Tools and Learning](Tools_and_Learning)
-[People and Companies](Companies)
-[Inspiration](Inspiration)
+* [Tools and Learning](Tools_and_Learning)
+* [People and Companies](Companies)
+* [Inspiration](Inspiration)
