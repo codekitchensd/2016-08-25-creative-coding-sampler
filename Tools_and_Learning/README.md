@@ -67,7 +67,7 @@
 - Abelton Live?
 - (Pure Data, MaxMSP, as well as most programming environments)
 - Tone.js (and P5.js) / WebAudioAPI
-- Sonic Pi [http://sonic-pi.net/]
+- [Sonic Pi](http://sonic-pi.net/)
 
 ## Content Creation
 - Blender
@@ -79,23 +79,43 @@
 
 _Think of it as three things: INPUT, BRAINS, OUTPUT_
 
-### BRAINS: 
+### Educational Resources
+- [Adafruit Learning System](https://learn.adafruit.com/)
+- [Hannah Perner Wilson](http://www.kobakant.at/DIY/)
+- [Kit of No Parts](http://kit-of-no-parts.at/)
 
-#### Microcontrollers
-- Arduino/Genuino - [http://arduino.cc/]
-- PIC - 
+### Microcontrollers (the brains)
+- (Arduino/Genuino)[http://arduino.cc/]
+  - Common programming interface
+  - Can use individual chips or dev boards
+- PIC
 
-#### Small Linux Computers
-- RasperryPi - [http://www.raspberrypi.org]
-- BeagleBone - [http://www.beaglebone.org]
-- [C.H.I.P.](http://getchip.com), [RedPitaya](http://redpitaya.com), [Tessel](http://tessel.io), so many others
+### Small Linux Computers
+- [RasperryPi](http://www.raspberrypi.org)
+- [BeagleBone](http://www.beaglebone.org)
+- [C.H.I.P.](http://getchip.com)
+- [RedPitaya](http://redpitaya.com)
+- [Tessel](http://tessel.io)
 
-#### Shields
-- Arduino Shields, Pi HATs, BeagleBone Capes, C.H.I.P. DIPs...
+### Shields
+- Arduino Shields
+  - [Wave Shield](https://www.adafruit.com/products/94)
+  - [WiFi Shield](https://www.adafruit.com/products/1491)
+- Pi HATs
+  -[HiFiBerry DAC](https://www.adafruit.com/products/2901)
+  -[Robot Board](https://www.adafruit.com/products/1940)
+- Also BeagleBone Capes, C.H.I.P. DIPs...
 - [Bela.io](http://bela.io) (BeagleBone)
 
-#### Misc ICs
-- LED controllers ([FadeCandy](http://fadecandy.com))
+### Misc ICs
+- XBees
+- Bluetooth
+- Other RF devices
+- Motor drivers
+- LED controllers
+  - [Shift Registers](https://www.adafruit.com/products/450)
+  - [TLC5940](http://www.ti.com/product/TLC5940)
+  - [FadeCandy](http://fadecandy.com))
 - FPGAs?
 
 ### INPUT 
